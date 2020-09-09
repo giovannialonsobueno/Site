@@ -2,3 +2,11 @@ body {
     padding: 0px;
     margin: 0px;
 }
+
+#navbarNav {
+    justify-content: center;
+}
+
+.nav-link {
+    margin-left: 50px;
+}

@@ -2,3 +2,13 @@ body {
     padding: 0px;
     margin: 0px;
 }
+
+#navbarNav
+{
+	justify-content: center;
+}
+
+#navUsus
+{
+	justify-content: flex-end;
+}

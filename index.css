@@ -10,6 +10,12 @@ body {
     font-weight: bold;
 }
 
+#navUsu
+{
+	position: relative;
+	margin-right: 10%;
+}
+
 #peixe {
 	margin-left: 1%;
 	width: 50px;

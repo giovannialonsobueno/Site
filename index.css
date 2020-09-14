@@ -13,7 +13,7 @@ body {
 #navUsu
 {
 	position: relative;
-	margin-right: 10%;
+	margin-right: 14%;
 }
 
 #peixe {
@@ -41,3 +41,10 @@ body {
     color: #00A6FF;
 } /* links ativos */
 
+.inputs{
+    width: 60%;
+    height: 1.5em;
+    margin-bottom: 2%;
+    border-radius: 5px;
+    border: 1px solid gray;
+}

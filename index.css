@@ -28,10 +28,6 @@ body {
     margin-left: 22%;
 }
 
-#navUsu {
-    margin-left: 5%;
-}
-
 .nav-link{
     margin-left: 5vh;
     font-weight: bold;
@@ -48,8 +44,4 @@ body {
     border-radius: 12px;
     border: 1px solid gray;
     padding-left: 5%;    
-}
-
-.iconLogin{
-    display: inline;
 }

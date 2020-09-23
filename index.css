@@ -5,15 +5,20 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+header {
+    position: fixed;
+    width: 100%;
+}
+
 .navbar-brand{
     margin-left: 1%;
     font-weight: bold;
 }
 
-#navUsu
-{
-	position: relative;
-	margin-right: 1%;
+#navUsu {
+	position: static;
+    margin-right: 0.7%;
+    margin-left: 3%;
 }
 
 #peixe {
@@ -28,10 +33,6 @@ body {
     margin-left: 22%;
 }
 
-#navUsu {
-    margin-left: 5%;
-}
-
 .nav-link{
     margin-left: 5vh;
     font-weight: bold;
@@ -39,17 +40,20 @@ body {
 
 #cor { 
     color: #00A6FF;
-} /* links ativos */
+}
+
+.divInput{
+    display: flex;
+    flex-direction: column;
+}
+
 
 .inputs{
-    width: 60%;
+    width: 90%;
     height: 1.5em;
     margin-bottom: 2%;
     border-radius: 12px;
     border: 1px solid gray;
-    padding-left: 5%;    
+    padding-left: 5%;
 }
 
-.iconLogin{
-    display: inline;
-}

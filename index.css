@@ -15,12 +15,6 @@ header {
     font-weight: bold;
 }
 
-#navUsu {
-	position: static;
-    margin-right: 0.7%;
-    margin-left: 3%;
-}
-
 #peixe {
 	margin-left: 1%;
 	width: 50px;
@@ -30,7 +24,7 @@ header {
 
 #navbarNav {
     justify-content: space-between;
-    margin-left: 22%;
+    margin-left: 27%;
 }
 
 .nav-link{
@@ -42,11 +36,10 @@ header {
     color: #00A6FF;
 }
 
-.divInput{
+.li-inputs{
     display: flex;
     flex-direction: column;
 }
-
 
 .inputs{
     width: 90%;
@@ -56,4 +49,19 @@ header {
     border: 1px solid gray;
     padding-left: 5%;
 }
+
+#icone {
+    position: static;
+    margin-right: 10px;
+}
+
+.botao-entrar{
+    width: 3vw;
+    height: 4vh;
+    padding: 0px;
+    border: 0px;
+    background-color:#f8f9fa;
+    border-radius: 8px;
+}
+
 

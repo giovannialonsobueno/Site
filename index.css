@@ -50,6 +50,11 @@ header {
     padding-left: 5%;
 }
 
+.inputs:focus{
+    outline: none;
+}
+
+
 #icone {
     position: static;
     margin-right: 10px;
@@ -64,4 +69,7 @@ header {
     border-radius: 8px;
 }
 
-
+.botao-entrar:focus{
+    outline: none;
+    
+}

@@ -24,7 +24,8 @@ header {
 
 #navbarNav {
     justify-content: space-between;
-    margin-left: 27%;
+    display: flex;
+    justify-content: center;
 }
 
 .nav-link{
